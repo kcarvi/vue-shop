@@ -1,7 +1,6 @@
 <template>
-	<div>
-		<div class="row">
-		<div class="col-md-6">
+<div class="row">
+	<div class="col-md-6">
 		<div class="input-group mb-3">
 			<div class="input-group-prepend">
 				<span class="input-group-text">Search</span>
@@ -92,9 +91,8 @@
 			</div>	
 			
 		</div>
-		</div>
-		</div>
 	</div>
+</div>
 </template>
 
 <script>

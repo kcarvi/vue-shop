@@ -1,8 +1,7 @@
 <template>
 	<div>
 		<hr>
-		<p>{{ siteName }}</p>
-		<hr>
+		<p>{{ copyright }}</p>
 	</div>
 </template>
 
@@ -10,7 +9,7 @@
 	export default {
 		data(){
 			return {
-				siteName: "Fruits and Vegetables"
+				copyright: "© 2018 All rights reserved"
 			}
 		}
 	}
@@ -18,7 +17,8 @@
 
 <style scoped>
 	div {
-		text-transform: uppercase;
 		color: #888;
+		margin: 1em 0;
+		padding-top: 1em;
 	}
 </style>
