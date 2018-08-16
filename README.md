@@ -1,6 +1,6 @@
-# sample
+# Fruits and Vegetables
 
-> A Vue.js project
+> A Vue.js Shop
 
 ## Build Setup
 
